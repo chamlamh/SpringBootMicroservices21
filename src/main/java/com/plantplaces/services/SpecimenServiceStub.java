@@ -1,4 +1,4 @@
-package com.plantplaces.service;
+package com.plantplaces.services;
 
 public class SpecimenServiceStub {
 
